@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
-import '../../models/ecg_data.dart';
-import '../../services/wifi_service.dart'; // <-- cambio
+import '../models/ecg_data.dart';
+import '../services/wifi_service.dart'; // <-- cambio
 
 class EcgScreen extends StatefulWidget {
   const EcgScreen({super.key});
